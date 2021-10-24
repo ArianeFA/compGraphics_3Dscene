@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\Victor\source\repos\LightPlane\Source.cpp(303,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Victor\source\repos\LightPlane\Source.cpp(421,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Victor\source\repos\LightPlane\Source.cpp(422,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Victor\source\repos\LightPlane\Source.cpp(426,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Victor\source\repos\LightPlane\Source.cpp(427,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Victor\source\repos\LightPlane\Source.cpp(429,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Victor\source\repos\LightPlane\Source.cpp(430,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Victor\source\repos\LightPlane\Source.cpp(440,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  LightPlane.vcxproj -> C:\Users\Victor\source\repos\LightPlane\Debug\LightPlane.exe
